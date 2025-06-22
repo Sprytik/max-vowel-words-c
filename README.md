@@ -30,5 +30,5 @@ A compiled binary `main.exe` is included in this repository.
 To run:
 
 ```cmd
-vowel_finder.exe
+main.exe
 ```
